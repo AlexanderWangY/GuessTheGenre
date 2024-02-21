@@ -5,3 +5,5 @@ It classifies between 5 genres viz: Horror, Action, Fantasy, Animation, and Roma
 
 The training process included: Preprocessing -> Training -> Cleaning the data -> Training -> Export
 
+You can test it @ [HuggingFace Space](https://huggingface.co/spaces/AlexanderWangY/MoviePosterGenreGuesser)
+
